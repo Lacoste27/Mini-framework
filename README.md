@@ -9,7 +9,8 @@
 
 ## Models
     * We use the base.jar library found in https://github.com/Lacoste27/Base
-        - public Administrateur() {
+   ```java
+   - public Administrateur() {
             this.setDatabaseName("contenu");
         }
 
@@ -27,4 +28,5 @@
             this.username = String.valueOf(username);
             this.password = String.valueOf(password);
         }
-    
+   ```
+        
