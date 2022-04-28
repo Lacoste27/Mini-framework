@@ -11,7 +11,7 @@
 
 ## Models
 
-    - We use the base.jar library found in [base](https://github.com/Lacoste27/Base)
+We use the base.jar library found in [Base](https://github.com/Lacoste27/Base)
 
 ```java
      public Administrateur() {
